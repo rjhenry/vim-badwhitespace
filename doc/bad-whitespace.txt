@@ -1,0 +1,3 @@
+This is a dirt-simple Vim plugin to highlight trailing, and other, bad
+whitespace. That's literally it. There's no need for comments, there's no need
+for descriptions, that's it.
